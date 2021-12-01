@@ -1,0 +1,13 @@
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.exe
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.deps.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.runtimeconfig.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.runtimeconfig.dev.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.dll
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\bin\Debug\netcoreapp3.1\KebabCase.pdb
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.csprojAssemblyReference.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.AssemblyInfoInputs.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.AssemblyInfo.cs
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.csproj.CoreCompileInputs.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.dll
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.pdb
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\KebabCase\obj\Debug\netcoreapp3.1\KebabCase.genruntimeconfig.cache
